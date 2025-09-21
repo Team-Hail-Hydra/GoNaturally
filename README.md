@@ -4,6 +4,8 @@
 > An **AI + Map-based gamified environmental platform** that empowers **students, teachers, and NGOs** to collaborate on sustainability efforts, report environmental issues, and participate in eco-missions.
 
 ---
+[![Youtube Video](https://github.com/user-attachments/assets/83a5c5d2-5a9d-47db-baae-af84da3f0608)](https://www.youtube.com/watch?v=Ibk7X8G6O_I)
+---
 
 ## 🚀 Vision
 
